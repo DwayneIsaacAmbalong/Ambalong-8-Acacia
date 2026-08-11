@@ -4,10 +4,16 @@
 
 My program calculates the distance of 2 points
 
-# You can run it into the following websites
+# how to run it
+1. open the program
+2. find your file
+3. search the run button then run it
+4. after add your following inputs
 
--google collab
+# the inputs you need
+- x1
+- x2
+- y1
+- y2
 
--vs studio
-
--pycharm
+  
